@@ -63,7 +63,7 @@
     "shelljs": "0.8.5",
     "slugify": "^1",
     "source-code-pro": "^2",
-    "source-map-loader": "^4",
+    "source-map-loader": "^5",
     "source-sans-pro": "3.6.0",
     "style-loader": "^3",
     "svg-inline-loader": "^0.8.2",
