@@ -5670,10 +5670,10 @@ tinyglobby@^0.2.12, tinyglobby@^0.2.13:
     fdir "^6.5.0"
     picomatch "^4.0.4"
 
-tinyqueue@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/tinyqueue/-/tinyqueue-2.0.3.tgz#64d8492ebf39e7801d7bd34062e29b45b2035f08"
-  integrity sha512-ppJZNDuKGgxzkHihX8v9v9G5f+18gzaTfrukGrq6ueg0lmH4nqVnA2IPG0AEH3jKEk2GRJCUhDoqpoiw3PHLBA==
+tinyqueue@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/tinyqueue/-/tinyqueue-3.0.0.tgz#101ea761ccc81f979e29200929e78f1556e3661e"
+  integrity sha512-gRa9gwYU3ECmQYv3lslts5hxuIa90veaEcxDYuu3QGOIAEM2mOZkVHp48ANJuu1CURtRdHKUBY5Lm1tHV+sD4g==
 
 tmp-promise@^3.0.2:
   version "3.0.3"
@@ -5946,12 +5946,12 @@ util-deprecate@^1.0.1, util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-utils-decorators@^2:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/utils-decorators/-/utils-decorators-2.10.0.tgz#cec7cba973eec0439066d7661807e49253619a60"
-  integrity sha512-viSYs2KjFPzN81gJ3jagThaKC6Ac+rKaMjU/rvnvH/Ew6pXd/meMOG3ZlI205xFB7Dxthn6hj8MyXPyMv8nu0Q==
+utils-decorators@^3:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/utils-decorators/-/utils-decorators-3.0.0.tgz#e3da14d6877658fa3a318a1c032b55838e423e24"
+  integrity sha512-LRfeoKumnDUBab7Z18GScEYEYdJYQ3lD21j77xN7Rzqf82zueRIC1ZYpiZ2qJFOPdIRw1polPlqSzs9R+fQ91A==
   dependencies:
-    tinyqueue "^2.0.3"
+    tinyqueue "^3.0.0"
 
 void-elements@^3.1.0:
   version "3.1.0"
