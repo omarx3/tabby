@@ -108,6 +108,6 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "dotenv": "^16"
+    "dotenv": "^18"
   }
 }
