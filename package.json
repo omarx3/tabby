@@ -32,7 +32,7 @@
     "clone-deep": "^4",
     "compare-versions": "^5",
     "core-js": "^3",
-    "cross-env": "7.0.3",
+    "cross-env": "10.1.0",
     "css-loader": "^6",
     "deep-equal": "2.0.5",
     "electron": "43",
