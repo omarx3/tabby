@@ -366,10 +366,10 @@
     "@tufjs/canonical-json" "2.0.0"
     minimatch "^10.1.1"
 
-"@types/mz@2.7.4":
-  version "2.7.4"
-  resolved "https://registry.yarnpkg.com/@types/mz/-/mz-2.7.4.tgz#f9d1535cb5171199b28ae6abd6ec29e856551401"
-  integrity sha512-Zs0imXxyWT20j3Z2NwKpr0IO2LmLactBblNyLua5Az4UHuqOQ02V3jPTgyKwDkuc33/ahw+C3O1PIZdrhFMuQA==
+"@types/mz@2.7.9":
+  version "2.7.9"
+  resolved "https://registry.yarnpkg.com/@types/mz/-/mz-2.7.9.tgz#f97c13aea704d806809d7c21ee490982503e7e7d"
+  integrity sha512-BqcaQb+0i5O5FzYLYwRVfSR5DpKK11vP4CSwjujGt9VdN+5xHMWE0f/OuM8r7Y30KO4evLMptd2+2w5GkuKjtg==
   dependencies:
     "@types/node" "*"
 
